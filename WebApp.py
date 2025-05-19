@@ -156,7 +156,7 @@ if st.button("Get Results"):
         st.markdown("**Stats:** Top 10% of balanced users report 30% higher life satisfaction (Global Web Index, 2020).")
 
 # Footer: Logo and Credits
-logo = Image.open('8334e22e-5719-48c3-89e8-d3a670e0df1c.png')
+logo = Image.open('euilogo.png')
 st.image(logo, width=200)
 st.markdown("---")
 st.markdown("**Created by:**")
