@@ -156,9 +156,8 @@ if st.button("Get Results"):
         st.markdown("**Stats:** Top 10% of balanced users report 30% higher life satisfaction (Global Web Index, 2020).")
 
 # Footer: Logo and Credits
-logo = Image.open('euilogo.png')
-st.image(logo, width=200)
-st.markdown("---")
+
+st.markdown("\n\n\n\n\n\n\n---")
 st.markdown("**Created by:**")
 st.markdown(
     "- Ali Ayman (22-101190)\n"
@@ -168,3 +167,9 @@ st.markdown(
     "- Mohamed Atta (22-101187)\n"
     "- Kareem Yasser (22-101124)"
 )
+logo = Image.open("euilogo.png")
+
+# Center the image using Streamlit columns
+col1, col2, col3 = st.columns([1, 2, 1])
+with col2:
+    st.image(logo, width=200)
