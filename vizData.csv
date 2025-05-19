@@ -1,0 +1,392 @@
+age,gender,relationship_status,use_social_media,avg_social_time,purposeless_use_freq,distracted_by_sm,restless_without_sm,easily_distracted,worry_level,concentration_difficulty,comparison_freq,comparison_feelings,seek_validation,feel_depressed,interest_fluctuation,sleep_issues
+21.0,Male,In a relationship,Yes,Between 2 and 3 hours,5,3,2,5,2,5,2,3,2,5,4,5
+21.0,Female,Single,Yes,More than 5 hours,4,3,2,4,5,4,5,1,1,5,4,5
+21.0,Female,Single,Yes,Between 3 and 4 hours,3,2,1,2,5,4,3,3,1,4,2,5
+21.0,Female,Single,Yes,More than 5 hours,4,2,1,3,5,3,5,1,2,4,3,2
+21.0,Female,Single,Yes,Between 2 and 3 hours,3,5,4,4,5,5,3,3,3,4,4,1
+22.0,Female,Single,Yes,Between 2 and 3 hours,4,4,2,3,4,3,4,4,3,3,2,4
+21.0,Female,Married,Yes,Between 3 and 4 hours,4,3,2,2,4,3,5,3,4,5,5,3
+21.0,Female,In a relationship,Yes,More than 5 hours,5,2,3,3,3,1,1,3,1,5,5,1
+21.0,Female,In a relationship,Yes,More than 5 hours,5,2,3,3,1,1,1,3,1,5,5,1
+20.0,Male,Single,No,Less than an Hour,1,1,1,1,1,1,1,1,1,1,1,1
+24.0,Male,Single,Yes,Between 2 and 3 hours,5,5,2,4,3,5,4,2,3,5,4,5
+21.0,Female,Single,Yes,Between 3 and 4 hours,4,4,2,5,3,4,2,2,3,3,4,2
+22.0,Female,Single,Yes,Between 3 and 4 hours,3,4,2,4,4,2,4,2,1,3,1,5
+21.0,Female,Single,Yes,Between 3 and 4 hours,5,3,2,1,4,4,2,3,2,3,3,3
+22.0,Male,Single,Yes,More than 5 hours,5,5,5,5,5,5,5,5,5,5,5,5
+23.0,Male,In a relationship,Yes,Between 1 and 2 hours,3,4,2,3,4,4,3,2,2,3,4,2
+21.0,Male,Single,Yes,Less than an Hour,2,2,1,2,4,2,1,3,1,4,1,3
+25.0,Male,Single,Yes,Between 4 and 5 hours,5,5,4,4,3,3,1,4,2,2,2,2
+28.0,Male,Single,Yes,Between 1 and 2 hours,3,4,2,4,5,5,2,3,1,3,3,1
+22.0,Male,In a relationship,Yes,Between 2 and 3 hours,4,2,2,3,3,2,2,2,1,2,3,2
+23.0,Male,Single,Yes,More than 5 hours,3,2,4,2,4,2,5,2,1,3,3,1
+26.0,Female,Single,Yes,Between 3 and 4 hours,3,4,3,3,4,4,4,3,3,4,4,4
+23.0,Female,Married,Yes,Between 1 and 2 hours,3,2,2,4,4,3,3,2,3,4,4,1
+23.0,Male,Single,Yes,Between 3 and 4 hours,3,3,5,5,5,5,4,1,3,3,5,5
+20.0,Male,Single,Yes,Between 3 and 4 hours,4,4,3,3,3,4,2,3,3,4,3,4
+22.0,Female,In a relationship,Yes,Between 4 and 5 hours,3,4,3,4,5,4,4,3,2,4,4,1
+21.0,Female,Single,Yes,Between 3 and 4 hours,4,4,5,5,5,4,4,4,3,5,4,1
+22.0,Female,In a relationship,Yes,Between 3 and 4 hours,4,4,3,3,5,4,5,2,3,5,4,3
+24.0,Male,Single,Yes,Between 2 and 3 hours,3,3,3,3,3,4,2,3,3,2,3,3
+18.0,Female,Single,Yes,Between 2 and 3 hours,4,3,3,3,4,3,3,2,4,3,3,2
+19.0,Female,Single,Yes,Between 3 and 4 hours,5,5,5,5,5,5,2,3,1,5,4,4
+21.0,Male,Single,Yes,Between 3 and 4 hours,5,3,4,3,2,3,5,3,4,3,3,1
+23.0,Male,Single,Yes,Less than an Hour,2,3,1,1,1,3,1,3,1,5,4,5
+22.0,Female,Single,Yes,Between 3 and 4 hours,4,5,5,4,4,4,2,3,3,2,2,5
+22.0,Male,Single,Yes,Between 2 and 3 hours,4,4,2,4,3,5,1,3,1,1,3,4
+21.0,Female,Single,Yes,Between 1 and 2 hours,1,1,1,1,1,1,2,1,2,3,3,1
+21.0,Female,Single,Yes,Between 3 and 4 hours,3,5,2,3,3,3,3,4,2,4,2,2
+19.0,Female,Single,Yes,More than 5 hours,3,2,4,4,5,4,5,2,1,5,4,2
+24.0,Male,Single,Yes,More than 5 hours,5,1,1,3,3,3,1,3,3,3,3,3
+22.0,Female,In a relationship,Yes,More than 5 hours,4,5,4,4,5,2,3,3,3,3,2,3
+17.0,Female,Single,Yes,Between 3 and 4 hours,4,3,1,3,5,3,4,2,1,3,5,1
+33.0,Female,Single,Yes,Between 3 and 4 hours,3,3,1,3,2,1,2,2,1,1,1,1
+22.0,Female,Single,Yes,Between 3 and 4 hours,4,4,3,4,3,2,1,3,3,3,4,4
+24.0,Male,Single,Yes,More than 5 hours,5,5,5,5,4,5,2,2,1,3,5,1
+26.0,Male,Single,Yes,Less than an Hour,3,5,3,5,5,5,5,5,5,5,5,5
+26.0,Male,In a relationship,No,Between 1 and 2 hours,4,1,1,2,2,1,1,3,1,1,3,2
+27.0,Male,Single,Yes,More than 5 hours,2,5,5,4,4,5,3,3,4,5,2,3
+22.0,Male,Married,Yes,More than 5 hours,3,2,1,2,4,2,1,3,1,3,4,2
+19.0,Female,Single,Yes,Between 2 and 3 hours,3,2,2,2,4,3,3,3,2,4,4,5
+22.0,Female,Married,Yes,Between 2 and 3 hours,4,5,2,4,4,4,3,3,4,5,4,2
+20.0,Female,Married,Yes,Between 1 and 2 hours,1,1,1,2,2,2,1,3,1,1,3,5
+25.0,Female,Single,Yes,More than 5 hours,4,3,3,4,4,4,2,2,2,4,3,4
+25.0,Female,Married,Yes,Between 1 and 2 hours,2,2,1,3,5,4,5,2,4,4,5,4
+18.0,Female,Single,Yes,More than 5 hours,4,4,3,5,4,3,1,3,1,5,4,5
+25.0,Male,Single,Yes,Between 1 and 2 hours,3,1,1,3,2,4,1,3,1,5,1,5
+19.0,Female,Single,Yes,Between 2 and 3 hours,2,3,1,5,3,5,1,3,1,1,5,4
+24.0,Male,In a relationship,Yes,Between 1 and 2 hours,3,2,4,3,2,2,1,3,2,2,4,4
+21.0,Male,In a relationship,Yes,Between 3 and 4 hours,5,5,5,5,5,5,5,2,4,4,4,1
+14.0,Male,Single,Yes,Between 1 and 2 hours,4,2,2,3,5,3,3,4,2,4,4,4
+25.0,Male,Single,Yes,Between 3 and 4 hours,4,4,3,3,3,2,3,2,2,3,4,4
+33.0,Male,Married,Yes,Between 3 and 4 hours,2,4,3,2,2,2,1,1,1,1,2,2
+23.0,Male,Single,Yes,Between 2 and 3 hours,5,5,5,5,5,5,5,5,5,5,5,5
+14.0,Female,Single,Yes,More than 5 hours,4,4,2,2,4,2,4,2,4,4,4,5
+23.0,Female,Single,Yes,Between 4 and 5 hours,4,4,3,3,4,5,3,2,4,5,5,4
+26.0,Male,Single,Yes,Less than an Hour,2,1,1,3,2,1,1,1,1,2,3,4
+24.0,Male,Single,Yes,Between 2 and 3 hours,4,5,3,4,3,2,2,3,4,5,4,2
+21.0,Female,Single,Yes,Between 3 and 4 hours,4,3,4,4,5,4,5,1,2,4,4,2
+18.0,Female,Single,Yes,Between 3 and 4 hours,4,3,3,3,5,5,4,3,1,5,5,5
+28.0,Male,Single,Yes,Between 3 and 4 hours,2,5,4,3,5,5,5,2,1,5,3,5
+22.0,Male,Single,Yes,Between 2 and 3 hours,4,4,4,5,5,5,3,3,1,4,4,5
+21.0,Male,Single,Yes,More than 5 hours,4,4,2,5,4,4,3,3,2,1,5,4
+21.0,Male,Single,Yes,More than 5 hours,5,5,3,5,4,5,2,3,2,4,5,2
+21.0,Female,In a relationship,Yes,Between 4 and 5 hours,3,5,5,5,3,5,4,4,3,4,5,5
+17.0,Male,Single,Yes,Between 2 and 3 hours,4,4,3,4,5,4,3,2,4,2,4,2
+22.0,Female,In a relationship,Yes,Between 1 and 2 hours,3,4,3,4,1,3,1,2,2,2,4,4
+32.0,Female,Married,Yes,Between 1 and 2 hours,4,3,2,5,2,5,2,4,1,1,2,1
+22.0,Male,Single,Yes,Between 2 and 3 hours,5,4,2,2,1,3,1,3,5,3,2,2
+20.0,Female,In a relationship,Yes,Between 2 and 3 hours,4,5,4,5,5,5,4,2,4,5,5,4
+22.0,Male,In a relationship,Yes,Between 2 and 3 hours,3,5,2,4,4,4,2,3,2,4,4,3
+28.0,Female,Single,Yes,Between 3 and 4 hours,4,5,4,5,5,5,2,3,2,4,5,2
+22.0,Female,Single,Yes,More than 5 hours,4,3,3,4,5,4,1,3,2,4,2,1
+30.0,Female,Single,Yes,Between 4 and 5 hours,4,5,3,2,4,4,3,3,3,4,4,4
+22.0,Male,Single,Yes,More than 5 hours,5,5,1,3,2,5,2,1,1,3,1,5
+14.0,Male,Single,Yes,Between 4 and 5 hours,5,5,2,4,2,3,1,3,1,1,3,5
+20.0,Male,Single,Yes,More than 5 hours,4,2,1,2,1,1,2,2,1,4,3,2
+22.0,Female,Single,Yes,More than 5 hours,4,4,4,4,4,5,5,3,4,5,5,3
+16.0,Male,Single,Yes,Between 4 and 5 hours,4,5,2,5,3,4,3,1,4,2,1,3
+22.0,Female,In a relationship,Yes,Between 2 and 3 hours,3,4,3,4,4,3,2,2,3,3,2,3
+22.0,Male,In a relationship,Yes,Between 1 and 2 hours,5,4,3,4,4,2,1,1,1,5,3,5
+22.0,Male,Single,Yes,Between 3 and 4 hours,3,4,3,3,4,3,2,3,3,4,3,3
+22.0,Male,Single,Yes,Between 1 and 2 hours,4,3,4,3,5,5,3,3,4,3,5,5
+21.0,Female,Single,Yes,Between 4 and 5 hours,2,3,4,3,3,3,3,4,4,1,3,3
+23.0,Female,Single,Yes,Between 4 and 5 hours,2,3,4,3,3,3,3,4,3,2,4,5
+23.0,Female,Single,Yes,Between 2 and 3 hours,3,2,2,4,2,2,1,3,3,3,4,5
+21.0,Female,In a relationship,Yes,Between 3 and 4 hours,3,2,1,3,2,3,2,1,3,2,2,5
+26.0,Female,Single,Yes,More than 5 hours,4,5,4,4,5,3,5,4,3,4,2,3
+27.0,Female,Single,Yes,More than 5 hours,2,5,4,4,3,2,5,1,4,4,4,1
+20.0,Female,Single,Yes,Between 2 and 3 hours,5,5,5,5,5,5,3,1,1,3,3,5
+22.0,Female,Single,Yes,More than 5 hours,5,4,5,4,5,4,3,3,4,3,3,4
+23.0,Female,In a relationship,Yes,More than 5 hours,5,5,5,5,5,4,5,5,4,5,4,5
+20.0,Male,Single,Yes,Between 4 and 5 hours,4,5,3,4,3,5,2,3,3,4,4,5
+20.0,Female,Single,Yes,Between 3 and 4 hours,4,3,1,2,4,2,4,2,1,3,3,3
+20.0,Female,Single,Yes,Between 4 and 5 hours,4,5,5,5,2,5,2,3,1,5,4,3
+22.0,Female,Single,Yes,More than 5 hours,4,5,4,5,5,5,3,1,1,4,2,2
+22.0,Female,Single,Yes,More than 5 hours,5,5,3,3,2,3,4,5,4,1,4,1
+20.0,Female,Single,Yes,More than 5 hours,4,4,3,5,4,3,2,2,2,4,5,3
+24.0,Male,Single,Yes,Between 2 and 3 hours,1,1,3,3,4,4,3,3,2,4,4,4
+23.0,Female,Single,Yes,More than 5 hours,3,2,4,3,5,3,5,1,4,4,2,5
+20.0,Female,Single,Yes,Between 3 and 4 hours,5,2,1,2,1,1,5,1,1,4,5,3
+16.0,Male,Single,Yes,Between 2 and 3 hours,3,1,2,3,3,2,2,4,1,3,3,2
+24.0,Male,Single,Yes,Between 2 and 3 hours,3,3,2,3,4,3,2,4,2,3,1,4
+27.0,Female,Married,Yes,Between 4 and 5 hours,4,5,2,5,5,5,5,2,3,3,5,4
+21.0,Female,Single,Yes,Between 4 and 5 hours,4,3,4,3,3,2,5,2,3,5,5,5
+20.0,Female,In a relationship,Yes,More than 5 hours,4,4,3,4,4,4,5,1,4,4,3,4
+21.0,Male,In a relationship,Yes,Between 3 and 4 hours,3,2,1,1,2,2,2,4,3,2,2,2
+32.0,Female,Married,Yes,Between 4 and 5 hours,5,2,4,3,2,1,1,5,1,1,2,5
+21.0,Female,In a relationship,Yes,Between 3 and 4 hours,2,2,1,5,4,5,3,3,2,3,5,4
+19.0,Female,In a relationship,Yes,Between 4 and 5 hours,5,4,4,3,5,4,2,5,4,4,5,5
+30.0,Male,In a relationship,Yes,Between 1 and 2 hours,4,2,1,2,2,1,4,2,2,2,2,5
+21.0,Male,Single,Yes,Between 2 and 3 hours,2,4,2,3,2,1,3,5,3,2,1,4
+21.0,Male,In a relationship,Yes,Less than an Hour,2,3,2,4,3,3,2,3,1,2,2,1
+20.0,Male,Single,Yes,More than 5 hours,5,5,5,4,2,4,3,3,1,3,3,4
+20.0,Female,Single,Yes,Between 3 and 4 hours,4,5,4,4,5,5,5,2,2,3,4,4
+20.0,Male,Single,Yes,Between 1 and 2 hours,5,5,2,3,4,5,3,2,4,5,5,5
+21.0,Female,Single,Yes,Between 1 and 2 hours,4,4,4,4,4,2,4,3,4,3,3,1
+20.0,Female,In a relationship,Yes,Between 4 and 5 hours,4,3,5,5,4,4,5,4,3,4,4,5
+23.0,Female,Single,Yes,Between 3 and 4 hours,5,3,3,4,3,5,1,3,3,4,3,5
+21.0,Female,Single,Yes,Between 4 and 5 hours,3,5,4,5,5,4,3,2,1,3,5,5
+21.0,Female,In a relationship,Yes,Between 2 and 3 hours,3,2,5,2,4,1,3,2,4,4,2,1
+25.0,Female,Married,Yes,Between 4 and 5 hours,3,4,5,4,5,4,2,4,4,5,3,2
+22.0,Female,In a relationship,Yes,More than 5 hours,5,5,4,5,4,3,2,3,3,3,4,4
+24.0,Female,Married,Yes,More than 5 hours,5,3,4,3,4,5,3,3,3,4,3,4
+21.0,Female,In a relationship,Yes,Between 2 and 3 hours,5,5,5,5,1,5,2,5,5,2,5,5
+22.0,Female,Single,Yes,Between 2 and 3 hours,3,2,2,2,2,2,1,3,3,4,2,1
+19.0,Female,Single,Yes,Between 2 and 3 hours,3,4,3,3,3,3,3,5,3,4,3,1
+21.0,Female,In a relationship,Yes,Between 4 and 5 hours,3,3,2,4,2,4,3,2,1,4,4,4
+22.0,Female,In a relationship,Yes,More than 5 hours,5,3,3,3,5,3,2,3,4,5,3,4
+20.0,Male,Single,Yes,Between 3 and 4 hours,4,5,4,4,5,4,1,3,4,4,5,5
+17.0,Male,Single,Yes,Less than an Hour,2,2,2,2,2,1,1,2,1,1,1,2
+32.0,Male,Married,Yes,Between 1 and 2 hours,3,1,3,2,2,1,1,3,1,1,2,1
+21.0,Female,Single,Yes,Between 1 and 2 hours,3,3,2,5,4,5,4,2,2,2,3,2
+22.0,Male,In a relationship,Yes,Between 3 and 4 hours,4,2,2,2,4,3,2,4,2,3,2,5
+27.0,Female,Married,Yes,More than 5 hours,5,5,3,3,3,3,1,3,1,3,3,4
+21.0,Male,In a relationship,Yes,Between 3 and 4 hours,4,5,3,5,5,5,5,2,4,3,5,3
+27.0,Male,Married,Yes,More than 5 hours,5,5,5,5,5,5,1,3,1,5,5,5
+20.0,Male,Single,Yes,Between 2 and 3 hours,3,2,3,2,3,2,3,2,3,2,1,4
+27.0,Female,Married,Yes,Between 3 and 4 hours,4,4,4,5,4,3,2,2,1,1,3,2
+24.0,Male,Single,Yes,Between 3 and 4 hours,5,5,5,5,1,5,5,4,1,5,5,4
+26.0,Female,Single,Yes,Between 2 and 3 hours,3,2,1,1,1,1,1,1,1,1,1,1
+20.0,Female,Single,Yes,Between 3 and 4 hours,2,1,1,2,5,3,5,4,3,4,3,4
+31.0,Male,Single,Yes,Between 2 and 3 hours,3,3,3,3,4,3,4,4,4,3,3,2
+21.0,Male,Single,Yes,More than 5 hours,5,1,1,1,1,1,1,3,1,1,1,1
+22.0,Male,Single,Yes,Less than an Hour,1,1,1,1,1,1,1,1,1,1,1,1
+20.0,Female,In a relationship,Yes,More than 5 hours,3,3,1,3,5,3,2,3,5,4,5,1
+23.0,Male,In a relationship,Yes,Between 4 and 5 hours,4,2,1,1,3,1,1,3,1,3,2,1
+22.0,Male,Single,Yes,Between 1 and 2 hours,3,3,2,3,4,4,4,4,3,5,4,4
+21.0,Female,In a relationship,Yes,More than 5 hours,4,4,4,5,5,5,4,2,3,3,4,4
+23.0,Female,Single,Yes,Between 2 and 3 hours,4,4,1,3,2,2,1,2,1,2,4,1
+21.0,Female,Single,Yes,Between 1 and 2 hours,4,3,1,3,4,3,5,2,3,3,4,3
+22.0,Female,Single,Yes,Between 3 and 4 hours,3,3,3,3,3,2,2,3,3,3,3,3
+22.0,Female,In a relationship,Yes,More than 5 hours,3,1,4,4,3,4,3,4,3,4,4,3
+22.0,Female,In a relationship,Yes,More than 5 hours,2,5,3,3,3,4,5,3,3,2,4,3
+19.0,Female,Single,Yes,Between 3 and 4 hours,5,4,5,3,5,4,5,1,5,4,4,3
+23.0,Female,Single,Yes,Between 2 and 3 hours,5,5,3,5,3,5,1,3,2,2,2,5
+21.0,Male,In a relationship,Yes,More than 5 hours,4,5,3,4,4,4,3,3,4,4,4,5
+24.0,Female,In a relationship,Yes,More than 5 hours,2,3,1,2,4,3,4,4,3,4,1,1
+20.0,Female,Single,Yes,Less than an Hour,3,1,1,1,2,2,5,1,2,1,3,1
+25.0,Male,Single,Yes,Between 1 and 2 hours,5,5,1,1,2,3,4,5,3,5,2,5
+21.0,Female,Single,Yes,Between 3 and 4 hours,2,1,1,2,2,1,1,1,1,1,1,1
+23.0,Male,In a relationship,Yes,More than 5 hours,4,4,3,5,4,4,4,2,1,4,4,3
+22.0,Female,In a relationship,Yes,More than 5 hours,5,4,4,4,4,3,4,4,4,4,5,1
+22.0,Female,Single,Yes,Between 2 and 3 hours,5,5,3,5,5,2,3,1,2,5,3,5
+25.0,Female,Single,Yes,Between 4 and 5 hours,3,4,2,5,5,1,5,1,5,4,5,5
+22.0,Female,Single,Yes,Between 4 and 5 hours,4,2,1,5,4,3,5,1,4,4,4,2
+23.0,Male,Single,Yes,Between 3 and 4 hours,3,4,2,5,5,5,5,4,4,2,3,4
+23.0,Male,Single,Yes,Less than an Hour,3,2,1,3,4,3,3,3,2,3,2,5
+19.0,Female,Single,Yes,Between 3 and 4 hours,5,3,2,3,5,5,2,3,3,3,5,5
+21.0,Female,Single,Yes,Between 1 and 2 hours,3,5,2,4,2,2,1,4,2,3,2,3
+27.0,Female,In a relationship,Yes,Between 4 and 5 hours,5,5,3,4,4,4,4,2,3,4,4,2
+25.0,Female,Single,Yes,More than 5 hours,4,3,1,2,4,3,4,2,2,4,2,1
+20.0,Female,Single,Yes,Between 2 and 3 hours,4,2,1,3,4,1,1,5,1,2,2,3
+23.0,Female,Single,Yes,More than 5 hours,5,5,3,3,5,3,3,4,3,4,5,4
+26.0,Female,Single,Yes,Between 4 and 5 hours,5,5,3,5,5,5,3,3,3,5,4,4
+25.0,Male,Single,Yes,Between 4 and 5 hours,4,5,2,5,1,5,2,3,4,5,1,5
+22.0,Female,Married,Yes,Between 2 and 3 hours,5,4,2,3,3,2,1,3,2,2,3,3
+20.0,Male,Single,Yes,Less than an Hour,4,2,1,3,5,2,1,4,2,2,4,2
+23.0,Female,Single,Yes,More than 5 hours,4,5,3,4,5,5,5,1,3,3,4,5
+22.0,Female,Single,Yes,Between 4 and 5 hours,4,1,2,1,1,1,1,2,1,1,2,3
+23.0,Female,Single,Yes,More than 5 hours,3,3,2,3,3,4,3,3,4,4,3,2
+21.0,Female,In a relationship,Yes,Between 2 and 3 hours,2,3,4,2,3,4,2,4,2,3,1,4
+21.0,Female,In a relationship,Yes,Between 2 and 3 hours,3,3,2,3,5,4,3,3,3,5,5,4
+22.0,Female,Single,Yes,Between 1 and 2 hours,2,2,2,2,2,3,4,3,3,3,2,2
+22.0,Male,Single,Yes,More than 5 hours,4,4,3,4,2,4,4,3,4,3,4,3
+22.0,Female,Single,Yes,More than 5 hours,5,2,5,4,4,4,4,3,2,2,3,2
+20.0,Female,Single,Yes,Between 3 and 4 hours,3,3,3,3,4,3,4,3,3,3,3,2
+26.0,Female,In a relationship,Yes,More than 5 hours,4,4,1,3,3,2,2,4,1,2,2,4
+21.0,Male,Single,Yes,Between 2 and 3 hours,3,3,2,5,5,4,2,3,2,4,2,4
+20.0,Female,Single,Yes,More than 5 hours,4,5,3,5,5,5,2,3,1,3,4,5
+21.0,Female,In a relationship,Yes,More than 5 hours,3,2,1,2,3,1,1,3,1,3,3,2
+19.0,Female,Single,Yes,More than 5 hours,3,2,1,5,2,3,1,3,1,2,1,5
+20.0,Female,Single,Yes,More than 5 hours,4,5,5,5,5,5,5,1,4,5,5,5
+22.0,Female,Single,Yes,Between 3 and 4 hours,5,4,3,4,4,3,2,3,4,3,3,4
+23.0,Male,Single,Yes,Between 1 and 2 hours,2,2,1,5,5,5,1,3,1,5,1,5
+21.0,Male,Single,Yes,Between 2 and 3 hours,4,4,4,5,5,4,4,2,3,3,4,3
+21.0,Female,In a relationship,Yes,Between 3 and 4 hours,5,4,2,5,5,4,4,3,3,5,5,5
+22.0,Male,In a relationship,Yes,Between 4 and 5 hours,5,5,3,5,5,5,5,5,5,5,5,5
+26.0,Male,Single,Yes,More than 5 hours,5,5,5,5,5,5,5,5,1,5,5,5
+22.0,Female,In a relationship,Yes,Between 2 and 3 hours,4,4,2,3,5,3,1,3,4,5,2,2
+17.0,Male,Single,Yes,Between 2 and 3 hours,3,4,3,3,3,3,5,3,4,5,3,4
+23.0,Male,Single,Yes,More than 5 hours,4,3,3,4,5,4,5,4,4,3,4,5
+21.0,Male,Single,Yes,Between 3 and 4 hours,2,4,2,4,5,4,5,4,4,4,3,3
+22.0,Female,Single,Yes,More than 5 hours,1,1,1,1,1,1,2,2,1,2,1,2
+20.0,Male,Single,Yes,More than 5 hours,4,5,3,2,5,3,4,2,1,5,4,5
+24.0,Female,Single,Yes,Between 4 and 5 hours,4,4,3,4,4,4,3,3,3,4,4,4
+22.0,Female,Single,Yes,Between 3 and 4 hours,4,4,2,5,4,5,3,2,2,3,4,4
+24.0,Male,Single,Yes,Between 3 and 4 hours,4,3,2,3,2,3,2,1,3,2,3,2
+22.0,Female,Single,Yes,More than 5 hours,3,4,4,5,5,4,5,2,4,5,4,4
+26.0,Male,In a relationship,Yes,Between 4 and 5 hours,3,3,2,2,4,2,2,3,4,4,2,2
+24.0,Female,In a relationship,Yes,Between 3 and 4 hours,2,1,1,2,4,2,1,1,3,3,2,4
+22.0,Female,Single,Yes,Between 2 and 3 hours,3,4,1,2,2,3,3,3,3,3,4,4
+25.0,Female,In a relationship,Yes,Between 3 and 4 hours,3,2,1,2,4,3,3,3,2,4,2,3
+21.0,Female,Single,Yes,Between 4 and 5 hours,4,5,3,4,4,5,2,3,3,4,5,4
+20.0,Female,In a relationship,Yes,Between 2 and 3 hours,4,4,4,4,4,4,5,5,4,5,5,5
+22.0,Female,Single,Yes,Between 1 and 2 hours,3,3,1,3,1,1,1,3,5,1,1,1
+25.0,Female,In a relationship,Yes,Between 2 and 3 hours,2,1,3,2,4,4,3,3,1,2,1,1
+17.0,Male,Single,Yes,Between 4 and 5 hours,2,1,4,2,5,2,4,3,1,4,2,2
+22.0,Female,Single,Yes,Between 2 and 3 hours,4,2,3,3,5,4,4,3,3,4,3,5
+26.0,Male,Single,Yes,Between 1 and 2 hours,3,4,2,4,4,4,2,2,1,3,3,2
+22.0,Female,Single,Yes,Between 2 and 3 hours,2,3,2,3,3,3,4,3,3,5,3,3
+23.0,Male,In a relationship,Yes,Between 2 and 3 hours,3,4,5,3,5,3,3,3,3,5,1,4
+25.0,Male,Single,Yes,Between 2 and 3 hours,4,2,2,3,5,4,1,1,2,5,5,5
+21.0,Male,Single,Yes,Between 2 and 3 hours,4,5,3,5,2,5,2,3,4,4,5,2
+30.0,Female,Single,Yes,Between 2 and 3 hours,4,5,4,3,3,5,4,3,1,4,4,5
+23.0,Female,Single,Yes,Between 3 and 4 hours,2,4,1,3,4,3,4,2,2,3,3,2
+22.0,Male,In a relationship,Yes,Between 4 and 5 hours,4,5,4,5,5,4,3,3,3,3,4,2
+21.0,Female,In a relationship,Yes,Between 4 and 5 hours,5,5,5,4,4,3,5,2,2,5,4,3
+20.0,Female,In a relationship,Yes,Between 3 and 4 hours,5,3,2,4,2,2,1,3,5,1,4,1
+18.0,Female,Single,Yes,More than 5 hours,3,2,2,2,4,2,1,3,3,2,3,4
+20.0,Female,Single,Yes,Between 3 and 4 hours,3,3,2,2,4,2,2,3,2,2,3,1
+15.0,Female,Single,Yes,Between 3 and 4 hours,4,3,1,3,5,3,3,3,1,5,4,5
+22.0,Male,Single,Yes,More than 5 hours,5,3,2,3,5,5,1,3,1,3,4,5
+17.0,Female,Single,Yes,More than 5 hours,2,5,4,5,3,5,2,2,3,2,4,2
+21.0,Male,Single,Yes,Between 1 and 2 hours,2,3,1,4,5,4,3,3,1,5,5,5
+22.0,Female,Single,Yes,More than 5 hours,5,1,4,1,4,4,3,4,2,4,5,4
+23.0,Female,Married,Yes,More than 5 hours,4,3,3,4,4,5,4,4,3,3,3,4
+24.0,Male,Single,Yes,Between 3 and 4 hours,2,1,1,1,4,1,1,3,1,3,1,3
+21.0,Female,In a relationship,Yes,More than 5 hours,4,5,4,5,3,5,3,3,2,5,5,4
+22.0,Female,Single,Yes,More than 5 hours,5,5,5,5,5,5,5,1,4,5,5,5
+22.0,Female,Single,Yes,More than 5 hours,5,5,5,5,5,5,5,5,5,5,5,5
+21.0,Female,Single,Yes,More than 5 hours,3,4,5,4,5,4,5,5,3,5,4,5
+21.0,Female,Single,Yes,More than 5 hours,3,3,2,2,4,4,4,3,3,4,2,4
+18.0,Male,Single,Yes,More than 5 hours,5,4,1,2,4,3,1,3,3,3,3,5
+19.0,Male,Single,Yes,Less than an Hour,3,2,1,2,4,2,2,3,4,2,2,5
+22.0,Male,Single,Yes,More than 5 hours,5,4,2,4,5,5,1,1,1,5,1,5
+21.0,Female,Single,Yes,Between 3 and 4 hours,5,5,4,5,5,4,5,5,3,5,3,5
+22.0,Male,Single,Yes,Between 2 and 3 hours,4,5,4,4,5,5,2,2,5,5,5,4
+21.0,Female,Single,Yes,Between 2 and 3 hours,4,4,1,3,2,2,2,2,2,4,3,2
+23.0,Male,Married,Yes,Between 2 and 3 hours,5,4,3,5,4,5,3,2,2,4,4,4
+19.0,Male,Single,Yes,Between 3 and 4 hours,4,2,2,2,3,1,2,5,1,1,3,4
+26.0,Male,Single,Yes,Between 2 and 3 hours,4,3,2,4,3,3,4,3,1,4,2,2
+27.0,Male,Single,Yes,Between 2 and 3 hours,5,5,2,2,1,1,2,4,1,3,2,3
+25.0,Female,Single,Yes,More than 5 hours,5,5,4,4,5,1,2,2,3,5,2,4
+20.0,Female,Single,Yes,Between 4 and 5 hours,3,3,3,3,3,3,3,3,3,3,3,3
+20.0,Female,Single,Yes,More than 5 hours,4,2,4,3,5,4,1,3,2,4,4,2
+22.0,Male,Single,Yes,Between 3 and 4 hours,4,4,1,3,3,1,1,1,1,1,2,2
+18.0,Female,Single,Yes,Between 3 and 4 hours,5,5,2,5,4,5,5,2,4,4,5,5
+22.0,Male,In a relationship,Yes,Between 2 and 3 hours,4,3,2,3,4,3,2,4,1,3,1,3
+20.0,Male,Single,Yes,Between 1 and 2 hours,3,3,2,3,5,3,1,3,4,5,3,2
+24.0,Male,Single,Yes,More than 5 hours,5,3,5,5,4,5,1,3,1,3,5,1
+21.0,Male,Single,Yes,Between 4 and 5 hours,3,4,3,3,5,5,4,4,4,3,4,3
+29.0,Female,Single,Yes,Between 3 and 4 hours,5,3,1,3,5,3,2,2,1,5,5,5
+21.0,Male,Single,Yes,Between 1 and 2 hours,4,4,3,3,5,2,4,2,2,2,4,5
+19.0,Female,Single,Yes,More than 5 hours,3,5,4,3,5,4,1,5,1,5,5,5
+21.0,Female,In a relationship,Yes,Between 2 and 3 hours,5,4,3,4,4,4,2,3,1,5,4,2
+22.0,Female,Married,Yes,Between 4 and 5 hours,5,5,3,4,4,4,4,1,1,4,2,1
+24.0,Male,In a relationship,Yes,Between 4 and 5 hours,4,5,3,5,5,5,1,3,1,3,2,1
+18.0,Female,Single,Yes,More than 5 hours,5,5,3,3,5,4,1,3,1,5,4,4
+19.0,Female,Single,Yes,Between 3 and 4 hours,4,3,1,3,4,4,2,3,1,4,3,5
+24.0,Male,Single,Yes,Between 4 and 5 hours,4,4,2,4,4,5,4,2,3,3,4,5
+29.0,Female,Single,Yes,Between 1 and 2 hours,2,2,1,4,5,4,4,2,1,5,2,4
+19.0,Male,Single,Yes,Between 4 and 5 hours,3,3,2,2,3,2,2,1,3,2,2,2
+22.0,Female,Single,Yes,Between 2 and 3 hours,4,5,4,5,5,4,3,3,1,4,4,2
+23.0,Male,Single,Yes,Between 1 and 2 hours,3,2,2,3,2,2,2,4,2,3,2,3
+22.0,Female,Single,Yes,More than 5 hours,5,5,5,4,4,4,2,3,2,3,4,1
+25.0,Male,Single,Yes,Between 2 and 3 hours,4,4,1,5,5,3,5,2,2,4,3,5
+19.0,Male,Single,Yes,Between 4 and 5 hours,3,3,4,3,3,3,4,3,3,3,3,2
+29.0,Female,Married,Yes,Between 1 and 2 hours,4,4,1,3,3,3,2,3,1,2,2,4
+21.0,Female,In a relationship,Yes,Between 4 and 5 hours,4,5,3,3,3,3,5,1,4,4,3,5
+21.0,Male,In a relationship,Yes,Between 4 and 5 hours,4,2,2,2,1,1,1,3,1,2,2,2
+22.0,Female,Married,Yes,Between 2 and 3 hours,3,2,1,1,1,3,1,1,2,1,2,2
+23.0,Female,Single,Yes,Between 4 and 5 hours,5,4,2,4,5,5,5,1,4,5,2,5
+22.0,Female,In a relationship,Yes,Between 2 and 3 hours,4,5,4,5,3,5,4,3,2,4,4,4
+20.0,Male,Divorced,Yes,More than 5 hours,5,5,5,5,5,5,5,5,5,5,5,5
+27.0,Female,Single,Yes,Between 3 and 4 hours,3,3,3,3,4,4,4,4,3,5,3,4
+24.0,Male,Single,Yes,More than 5 hours,5,2,2,2,4,2,2,3,3,2,1,5
+21.0,Female,Married,Yes,Between 1 and 2 hours,5,5,2,4,5,5,5,1,5,4,5,5
+23.0,Female,Single,Yes,Less than an Hour,3,2,1,1,2,1,1,2,2,3,4,3
+21.0,Female,Single,Yes,Between 3 and 4 hours,4,4,2,5,4,4,2,3,2,3,3,5
+23.0,Female,In a relationship,Yes,Between 2 and 3 hours,4,4,3,3,4,2,4,2,3,2,2,1
+24.0,Female,In a relationship,Yes,Between 4 and 5 hours,3,2,2,3,5,3,5,2,3,5,5,4
+21.0,Male,Single,Yes,Between 4 and 5 hours,3,2,2,3,4,3,1,3,2,5,2,4
+30.0,Female,Single,Yes,Between 2 and 3 hours,4,5,3,5,5,5,4,2,5,4,5,4
+23.0,Male,Single,Yes,Between 3 and 4 hours,3,4,2,2,5,4,5,5,5,5,2,2
+22.0,Female,Single,Yes,More than 5 hours,4,3,3,3,2,2,3,3,1,1,3,2
+29.0,Female,Single,Yes,More than 5 hours,5,5,3,5,4,5,5,3,3,5,5,5
+20.0,Male,Single,Yes,Between 3 and 4 hours,4,3,2,3,5,5,5,5,5,5,5,1
+26.7,Female,Single,Yes,More than 5 hours,4,2,2,3,5,3,5,2,3,4,5,5
+24.0,Male,Single,Yes,Between 1 and 2 hours,3,4,1,3,3,2,3,3,4,5,3,3
+26.0,Male,In a relationship,Yes,Between 3 and 4 hours,4,5,3,4,4,4,5,1,2,3,4,3
+22.0,Male,Single,Yes,Between 2 and 3 hours,5,4,2,3,3,4,3,4,1,2,2,4
+23.0,Male,Single,Yes,Between 4 and 5 hours,5,5,2,4,5,3,5,3,2,3,3,4
+19.0,Male,Single,Yes,Between 4 and 5 hours,4,4,2,4,4,4,5,2,4,2,4,4
+21.0,Female,Single,Yes,Between 2 and 3 hours,3,4,3,4,4,4,5,1,2,4,4,2
+20.0,Female,Single,Yes,Between 4 and 5 hours,5,5,5,5,5,5,2,3,2,4,4,5
+22.0,Male,Single,Yes,More than 5 hours,4,4,4,4,2,3,2,3,4,3,3,4
+22.0,Male,Single,Yes,More than 5 hours,3,3,3,4,5,5,4,3,1,5,3,3
+23.0,Male,Single,Yes,More than 5 hours,5,4,4,5,5,5,2,3,1,5,5,5
+22.0,Female,Single,Yes,More than 5 hours,4,5,5,5,5,5,5,2,4,5,4,1
+20.0,Female,In a relationship,Yes,More than 5 hours,5,4,2,3,3,2,1,3,3,2,2,2
+27.0,Female,Married,Yes,Between 1 and 2 hours,4,2,1,2,3,1,2,3,4,2,2,1
+22.0,Female,Single,Yes,More than 5 hours,5,4,4,4,4,4,2,4,3,5,4,3
+21.0,Female,Single,Yes,More than 5 hours,4,4,3,5,4,5,4,3,4,5,5,5
+21.0,Female,Single,Yes,Between 2 and 3 hours,2,1,4,2,2,2,3,3,2,1,4,4
+24.0,Female,Single,Yes,Between 4 and 5 hours,3,4,1,5,4,5,3,3,4,5,5,5
+19.0,Male,Single,Yes,Between 3 and 4 hours,4,2,3,3,4,3,2,2,2,4,4,3
+26.0,Male,Single,Yes,More than 5 hours,5,4,3,4,4,4,3,3,2,3,4,5
+19.0,Female,Single,Yes,Between 3 and 4 hours,4,5,2,4,5,3,5,5,1,5,4,5
+21.0,Female,In a relationship,Yes,More than 5 hours,3,5,2,5,3,5,4,2,4,4,3,3
+20.0,Female,Single,Yes,Between 4 and 5 hours,4,5,5,5,5,5,2,2,1,4,5,1
+24.0,Female,In a relationship,Yes,More than 5 hours,5,2,4,2,5,1,3,2,4,4,2,5
+21.0,Female,Single,Yes,Between 3 and 4 hours,4,4,3,5,5,5,5,1,1,3,3,1
+24.0,Male,Single,Yes,More than 5 hours,3,4,4,4,3,3,2,3,1,3,3,3
+21.0,Female,In a relationship,Yes,Between 3 and 4 hours,5,3,3,5,5,5,5,3,1,5,4,5
+17.0,Male,Single,Yes,More than 5 hours,2,4,3,5,5,5,3,2,1,5,4,5
+26.0,Female,In a relationship,Yes,Between 4 and 5 hours,4,4,2,4,3,4,3,3,2,4,3,4
+18.0,Male,Single,Yes,Between 3 and 4 hours,4,5,4,5,5,4,4,3,3,5,3,5
+18.0,Female,Single,Yes,Between 3 and 4 hours,2,1,1,3,3,2,1,3,1,2,2,2
+18.0,Female,In a relationship,Yes,Between 3 and 4 hours,5,3,4,3,4,4,1,3,1,3,5,5
+23.0,Male,Single,Yes,Between 3 and 4 hours,3,4,2,4,5,4,2,3,2,4,3,3
+20.0,Male,Single,Yes,Between 1 and 2 hours,4,5,3,5,2,5,1,2,3,3,2,1
+23.0,Male,Single,Yes,More than 5 hours,4,4,3,4,5,4,4,3,2,3,3,5
+25.0,Male,In a relationship,Yes,Less than an Hour,2,2,3,2,3,3,3,4,3,2,2,4
+26.0,Male,Single,Yes,Between 2 and 3 hours,4,3,3,3,5,4,4,1,4,5,5,4
+20.0,Male,In a relationship,Yes,More than 5 hours,4,5,3,4,5,4,5,2,4,4,4,5
+19.0,Male,In a relationship,Yes,Between 1 and 2 hours,4,3,1,3,4,2,2,3,3,1,4,3
+17.0,Female,Single,Yes,Between 2 and 3 hours,4,1,3,2,5,4,5,5,1,4,4,1
+24.0,Female,Married,Yes,Between 3 and 4 hours,4,3,5,3,3,5,4,2,3,3,3,3
+29.0,Female,Married,Yes,More than 5 hours,5,5,5,4,5,4,3,3,4,4,4,3
+30.0,Female,Married,Yes,Between 3 and 4 hours,1,5,1,2,3,3,2,4,3,3,3,2
+21.0,Female,Single,Yes,Between 3 and 4 hours,4,5,4,4,5,5,5,1,3,5,4,4
+23.0,Male,Single,Yes,More than 5 hours,4,3,2,4,4,4,3,3,3,5,5,5
+21.0,Male,Single,Yes,More than 5 hours,5,5,2,3,4,3,4,4,4,5,3,5
+20.0,Female,Single,Yes,More than 5 hours,3,5,3,5,5,5,5,5,5,5,5,5
+21.0,Male,Single,Yes,Between 4 and 5 hours,4,3,2,5,5,4,5,1,3,5,5,5
+22.0,Female,Single,Yes,Between 4 and 5 hours,3,1,2,3,4,2,2,1,1,4,3,5
+22.0,Female,Single,Yes,Between 2 and 3 hours,3,2,2,2,5,3,5,2,5,3,3,5
+22.0,Female,In a relationship,Yes,More than 5 hours,1,5,2,3,5,2,1,2,2,3,3,4
+27.0,Female,In a relationship,Yes,Between 4 and 5 hours,4,3,3,4,3,3,4,2,4,2,1,2
+21.0,Male,Single,Yes,More than 5 hours,5,4,2,2,2,3,2,3,1,2,2,5
+23.0,Male,In a relationship,Yes,Between 4 and 5 hours,4,3,2,4,4,3,4,4,4,4,3,4
+22.0,Male,In a relationship,Yes,Between 3 and 4 hours,4,4,5,4,2,4,3,3,4,2,3,4
+21.0,Female,In a relationship,Yes,Between 3 and 4 hours,3,4,4,3,3,3,2,5,3,1,3,2
+23.0,Male,Single,Yes,Between 2 and 3 hours,4,2,1,2,3,2,3,3,1,3,2,2
+21.0,Female,Single,Yes,More than 5 hours,4,5,3,4,4,4,3,3,4,4,4,3
+20.0,Male,Single,Yes,Between 4 and 5 hours,5,3,2,3,4,2,2,4,3,3,4,3
+23.0,Male,Single,Yes,Between 1 and 2 hours,2,1,1,2,5,3,3,4,1,3,2,4
+22.0,Female,In a relationship,Yes,Between 3 and 4 hours,3,5,3,5,5,5,5,3,3,5,4,5
+20.0,Female,In a relationship,Yes,More than 5 hours,5,3,4,3,5,5,5,1,4,5,5,3
+21.0,Male,Single,Yes,Between 3 and 4 hours,4,4,4,4,4,5,4,1,4,4,4,5
+25.0,Female,Single,Yes,Between 2 and 3 hours,3,5,2,2,3,3,1,3,1,2,4,5
+21.0,Female,Single,Yes,Between 3 and 4 hours,2,2,1,4,4,4,2,1,1,2,2,2
+28.0,Female,Single,Yes,Between 4 and 5 hours,4,3,1,4,5,4,1,3,1,4,1,5
+22.0,Female,Single,Yes,Between 3 and 4 hours,1,1,1,5,3,5,1,1,1,3,4,3
+23.0,Female,Single,Yes,Between 2 and 3 hours,3,3,3,3,3,2,2,3,3,4,2,2
+21.0,Female,Single,Yes,Between 4 and 5 hours,3,5,3,3,3,2,3,3,1,2,2,3
+22.0,Female,Single,Yes,Between 3 and 4 hours,2,2,1,4,5,5,1,4,1,3,5,2
+28.0,Female,Married,Yes,Between 2 and 3 hours,5,4,1,5,4,5,2,2,2,5,5,2
+14.0,Male,Single,Yes,Between 2 and 3 hours,3,4,2,4,3,2,1,3,1,2,3,1
+23.0,Male,In a relationship,Yes,Between 4 and 5 hours,2,4,2,3,4,4,1,3,1,3,2,3
+18.0,Male,Single,Yes,Between 1 and 2 hours,3,3,1,3,2,1,1,2,1,1,2,4
+18.0,Male,Single,Yes,More than 5 hours,2,3,1,3,5,3,5,1,2,5,2,1
+15.0,Male,Single,Yes,Between 4 and 5 hours,1,1,1,3,3,3,3,3,3,1,1,1
+20.0,Female,Single,Yes,Between 1 and 2 hours,2,2,1,3,5,3,5,1,2,5,4,5
+20.0,Female,Single,Yes,More than 5 hours,5,4,2,4,5,3,1,3,2,4,3,4
+26.0,Female,Married,Yes,Between 2 and 3 hours,4,4,3,3,4,4,4,5,3,4,3,4
+30.0,Female,Married,Yes,Between 4 and 5 hours,2,4,4,3,4,5,4,2,2,4,2,1
+32.0,Female,Married,Yes,Between 3 and 4 hours,5,5,3,5,5,5,5,1,4,5,5,4
+24.0,Male,Single,Yes,Between 2 and 3 hours,3,4,3,4,3,4,4,2,4,3,4,4
+26.0,Female,Married,Yes,Between 1 and 2 hours,2,1,2,3,4,4,4,2,4,4,4,1
+29.0,Female,Married,Yes,Between 2 and 3 hours,3,3,4,3,2,3,3,3,4,2,2,2
+21.0,Male,Single,Yes,Between 2 and 3 hours,2,3,2,3,3,2,2,3,4,4,5,4
