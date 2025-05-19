@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import joblib
+from PIL import Image
 
 # Load trained classification models and scaler
 log_reg = joblib.load("models/log_reg_model.pkl")
@@ -153,3 +154,17 @@ if st.button("Get Results"):
             "- Explore positive content: educational and creative communities."
         )
         st.markdown("**Stats:** Top 10% of balanced users report 30% higher life satisfaction (Global Web Index, 2020).")
+
+# Footer: Logo and Credits
+logo = Image.open('8334e22e-5719-48c3-89e8-d3a670e0df1c.png')
+st.image(logo, width=200)
+st.markdown("---")
+st.markdown("**Created by:**")
+st.markdown(
+    "- Ali Ayman (22-101190)\n"
+    "- Hussein Hanafy (22-101184)\n"
+    "- Mohamed Ayman (22-101182)\n"
+    "- Fares Gamil (22-101100)\n"
+    "- Mohamed Atta (22-101187)\n"
+    "- Kareem Yasser (22-101124)"
+)
