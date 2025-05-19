@@ -42,16 +42,16 @@ avg_time = st.selectbox(
 )
 # Behavioral sliders
 purposeless = st.slider("Use social media without purpose (1=Never,5=Always)", 1, 5, 3)
-distracted = st.slider("Distraction frequency (1=Never,5=Always)", 1, 5, 3)
+distracted = st.slider("Distraction by social media (1=Never,5=Always)", 1, 5, 3)
 restless = st.slider("Restlessness if not using social media (1=Never,5=Always)", 1, 5, 3)
 easily_distracted = st.slider("Ease of distraction (1=Low,5=High)", 1, 5, 3)
 worry_level = st.slider("Worry level (1=Low,5=High)", 1, 5, 3)
 concentration = st.slider("Difficulty concentrating (1=Low,5=High)", 1, 5, 3)
-comparison = st.slider("Comparison frequency (1=Never,5=Always)", 1, 5, 3)
+comparison = st.slider("Comparison to other people on social media frequency (1=Never,5=Always)", 1, 5, 3)
 comparison_feelings = st.slider("Feelings after comparison (1=Poorly affected,5=Not affected)", 1, 5, 3)
 validation = st.slider("Validation seeking (1=Never,5=Always)", 1, 5, 3)
 depressed = st.slider("Depression frequency (1=Never,5=Always)", 1, 5, 3)
-interest = st.slider("Interest fluctuation (1=Low,5=High)", 1, 5, 3)
+interest = st.slider("Interest fluctuation in things that you usually like to do (1=Low,5=High)", 1, 5, 3)
 sleep_issues = st.slider("Sleep issues (1=Never,5=Always)", 1, 5, 3)
 
 # Demographics
